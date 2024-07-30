@@ -2,7 +2,7 @@
 
 I do many things, and programming is half of them
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-usr&show_icons=true&theme=highcontrast)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-usr&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **a-usr/a-usr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
