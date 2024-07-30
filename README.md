@@ -1,6 +1,6 @@
 ## Hello there
 
-I do many things, and programming is half of them
+I do many things, and programming is half of them. The other half is forgetting to push my repos.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-usr&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!--
