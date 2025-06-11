@@ -6,7 +6,7 @@ I do many things, and programming is half of them. The other half is forgetting 
   <img src="https://github-stats-rho-eight.vercel.app/api/top-langs/?username=a-usr&layout=compact&langs_count=4&theme=highcontrast&exclude_repo=a-usr&hide=Dockerfile,CMake" height="150" alt="Top lang">
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cs,dotnet,python,bash,powershell,neovim,windows,nix,arch&perline=5" height="150" alt="skills">
+  <img src="https://skillicons.dev/icons?i=rust,cs,dotnet,python,lua,ts,neovim,linux,nix&perline=5" height="150" alt="skills">
 </div>
 <!--
 **a-usr/a-usr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
